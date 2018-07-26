@@ -1,0 +1,14 @@
+gem install rails
+
+rails -v
+
+Nos dirigimos a nuestra carpeta del proyecto FullStar y ejecutamos el siguiente comando para crear el proyecto
+
+rails new mainnewproyect
+
+Back (Código)
+Front (css, html, js)
+
+
+App/ controllers, models, views
+db/ Esquema base de datos
